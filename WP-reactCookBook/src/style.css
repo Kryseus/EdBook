@@ -1,0 +1,12 @@
+.frame{
+    height: 250px;
+}
+.framed-img{
+    object-fit: cover;
+    width: 100%
+}
+@media (max-width: 767.98px) {
+    .frame{
+        height: 150px
+    }
+}
